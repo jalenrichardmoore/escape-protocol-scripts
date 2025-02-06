@@ -51,7 +51,7 @@ public class EvaluationManager : MonoBehaviour
             dynamic sys = Py.Import("sys");
             sys.path.append(Application.streamingAssetsPath);
             
-            var pythonScript = Py.Import("difficultyEvaluation");
+            var pythonScript = Py.Import("difficulty_evaluation");
             var result = pythonScript.InvokeMethod("evaluate_entry");
         }
     }
