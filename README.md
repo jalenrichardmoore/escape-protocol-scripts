@@ -51,7 +51,9 @@ git clone https://github.com/Jalen-Moore/escape-protocol-scripts.git
 ```
 
 2. Copy the scripts in the 'Scripts' into your Unity project's 'Assets/Scripts/' folder
+
 3. Copy the 'difficulty_evaluation.pkl' and 'difficulty_evaluation.py' files into your Unity projects 'Asseets/StreamingAssets/' folder
+
 4. Add your Python version's .ddl file into your Unity projects 'Asseets/StreamingAssets/' folder
 
 ## **Credits**
