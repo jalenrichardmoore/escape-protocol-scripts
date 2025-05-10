@@ -47,7 +47,7 @@ Python libraries: numpy, pandas, pickle, xgboost
 ## **Installation & Usage**
 1. Clone the repository:
 ```sh
-git clone https://github.com/Jalen-Moore/escape-protocol-scripts.git
+git clone https://github.com/jalenrichardmoore/escape-protocol-scripts.git
 ```
 
 2. Copy the scripts in the 'Scripts' into your Unity project's 'Assets/Scripts/' folder
